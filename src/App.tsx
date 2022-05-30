@@ -1,5 +1,5 @@
 import React from 'react';
-import ImageBrick from './components/ImageBrick';
+import Alphaput from './components/Ops/Alphaput';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <ImageBrick />
+      <Alphaput />
     </div>
   );
 }
